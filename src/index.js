@@ -21,7 +21,6 @@ function App() {
           columns={columns}
           data={data}
           noHeader
-          defaultSortField="id"
           defaultSortAsc={false}
           pagination
           highlightOnHover

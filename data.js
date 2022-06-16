@@ -3,7 +3,7 @@ import React from "react";
 export const columns = [
   {
     name: "Name",
-    selector: "Name",
+    selector: "name",
     sortable: true
   },
   {
